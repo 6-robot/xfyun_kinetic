@@ -29,12 +29,12 @@ xfyun语音识别是[北京六部工坊科技有限公司](http://www.6-robot.co
 ### 1. 中文语音识别
 先连接互联网,使用如下指令开始识别中文:
 ```
-roslaunch xfyun_kinetic iat_cn.launch
+roslaunch xfyun_waterplus iat_cn.launch
 ```
 ### 2. 英文语音识别
 先连接互联网,使用如下指令开始识别英文:
 ```
-roslaunch xfyun_kinetic iat_en.launch
+roslaunch xfyun_waterplus iat_en.launch
 ```
 ### 3. 启明1脚本
 对于[启明1服务机器人](https://github.com/6-robot/wpr1),使用如下脚本启动语音识别引擎:
